@@ -1,7 +1,7 @@
   # BANKAI_MD
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By easy_richie ⚡</u>
+<u>⚡ A simple WhatsApp User Bot developed By easy_richie ⚡</u>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/QNvEMVB.jpeg"/>       
@@ -23,8 +23,8 @@
 ## BANKAI_MD Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Awesome-DC/BANKAI_MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://bankai-ivm0.onrender.com) 
- OR BY [`SCANNING QR CODE`](https://bankai-ivm0.onrender.com/wasiqr)** 
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://bankai-renew.onrender.com) 
+ OR BY [`SCANNING QR CODE`](https://bankai-renew.onrender.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Awesome-DC/BANKAI_MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0Z) for more**
 9. **All Tutorials Are `COMING SOON`**
