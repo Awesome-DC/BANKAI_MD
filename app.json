@@ -1,9 +1,10 @@
 {
-  "name":"Gojou-MD",
-  "description":"Deploy now your Gojou md ,Brought to you by the David Cyril.Make sure you fill all valuables to avoid bot from sleeping. ",
+
+  "name":"BANKAI-MD",
+  "description":"Deploy now your BANKAI MD ,made by easy_richie.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/YKVlucn.jpeg",
-  "repository":"https://github.com/DeeCeeXxx/Gojou-MD",
+  "logo":"https://i.imgur.com/QNvEMVB.jpeg",
+  "repository":"https://github.com/Awesome-DC/BANKAI-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +36,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Gojo MD",
+      "value":"BANKAI-MD",
       "required":false
 
     } ,
@@ -76,14 +77,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "David Cyril"
+    "value": "easy_richie"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '234')",
     "required":false,
-    "value": "2349066528353"
+    "value": "2349129158834"
   },
     "WARN_COUNT":
   {
