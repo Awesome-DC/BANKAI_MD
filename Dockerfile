@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
   
 RUN git clone https://github.com/Awesome-DC/BANKAI-MD/root/BANKAI-MD
-WORKDIR /root/Gojou-MD/
+WORKDIR /root/BANKAI-MD/
 
 
 COPY package.json .
